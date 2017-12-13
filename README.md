@@ -1,1 +1,1 @@
-server-for-local-ptojects
+games-panel
